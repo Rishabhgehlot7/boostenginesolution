@@ -62,7 +62,7 @@ const Header: React.FC = () => {
           </Link>
         </div>
         <div className="flex justify-center items-center gap-3 text-xs">
-          <Button className=" rounded-3xl mt-6">Let's Talk</Button>
+          <Button className=" rounded-3xl mt-6">Let&apos;s Talk</Button>
           <DropdownMenu>
             <DropdownMenuTrigger className="border-none outline-none mt-6">
               <User />

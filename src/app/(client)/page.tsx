@@ -146,7 +146,7 @@ const Page = () => {
               /> */}
               <h3 className="text-xl font-semibold mb-2">Feature Two</h3>
               <p className="text-gray-600">
-                Description of feature two, explaining its benefits and use
+                Description of feature two explaining its benefits and use
                 cases.
               </p>
             </div>
@@ -160,7 +160,7 @@ const Page = () => {
               /> */}
               <h3 className="text-xl font-semibold mb-2">Feature Three</h3>
               <p className="text-gray-600">
-                Description of feature three, explaining its benefits and use
+                Description of feature three explaining its benefits and use
                 cases.
               </p>
             </div>
@@ -175,16 +175,16 @@ const Page = () => {
           <div className="flex flex-col md:flex-row justify-center gap-8">
             <div className="bg-gray-100 p-6 rounded-lg shadow-lg">
               <p className="text-lg mb-4">
-                "Boost Engine provided us with exceptional service and support.
-                Highly recommend!"
+                Boost Engine provided us with exceptional service and support.
+                Highly recommend!
               </p>
               <p className="font-semibold">Client Name</p>
               <p className="text-gray-600">Company</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow-lg">
               <p className="text-lg mb-4">
-                "The team at Boost Engine is knowledgeable and professional. Our
-                project was a success."
+                The team at Boost Engine is knowledgeable and professional. Our
+                project was a success.
               </p>
               <p className="font-semibold">Client Name</p>
               <p className="text-gray-600">Company</p>
